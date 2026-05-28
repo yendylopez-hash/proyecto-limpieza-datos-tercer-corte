@@ -45,4 +45,4 @@ Ingreso: min=1300000, max=8000000, prom=4018000.0
 Python puro, sin pandas. Manejo de tildes con chr().
 CSV con csv.DictReader.
 ## Autor
-[Tu nombre] - Estudiante Estadística - Universidad ECCI - 2026-I
+[Yendy Daniela Lopez Celis] - Estudiante Estadística - Universidad ECCI - 2026-I
