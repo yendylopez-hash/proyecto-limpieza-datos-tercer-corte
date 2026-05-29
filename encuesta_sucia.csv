@@ -1,0 +1,59 @@
+id,ciudad,edad,ingreso,genero
+36,medellin ,41 años,2.200.000,FEMENINO
+15,Bogotá,42 años,3.500.000,Masculino
+33,Medellín,47 años,1300000,m
+5,Cartagena, 30 ,8000000,masculino
+1,  Bogota , 19 ,3.500.000 COP,FEMENINO
+35,CALI,58 años,$ 8.000.000, F
+29,Medellín,61 anios,5000000,Femenino
+19, medellin,47 años,5.000.000,masculino
+27,medellin ,26 anios,$ 8.000.000, M
+25,Medellín,65,8000000,M 
+37,cartagena, 38 ,$6.500.000,F
+50,Cartagena,33,$3.500.000,masculino
+16,  Cali,28 años,4.200.000,M 
+4,Bogota,31,2.800.000 COP,Femenino
+13,  Cartagena ,30,$ 1.800.000,F
+44,barranquilla ,60 años,4.200.000 COP,Masculino
+43,  Cartagena ,64,2.800.000 COP,MASCULINO
+40,BARRANQUILLA,22 anios,8.000.000,F
+26,cartagena,45,5000000, M
+41,MEDELLIN,60 años,$ 6.500.000, F
+18,  Cartagena ,58 anios,$ 2.200.000,Femenino
+10,CALI,40,$ 3.500.000, F
+25,Medellín,65,8000000,M 
+46,MEDELLIN,22,$4.200.000,Femenino
+12,BOGOTÁ , 53 ,3.500.000,M
+42,  Cali,51 anios,$5.000.000,FEMENINO
+9,Bogotá, 23 ,5.000.000,Femenino
+54,  ,41,$4.000.000,
+3, cartagena,45,$ 1.300.000,f
+28, bogotá,21 años,1.800.000,FEMENINO
+21,MEDELLIN,20 anios,$4.200.000,Masculino
+47,CARTAGENA ,53,2.800.000,femenino
+38,BOGOTA, 41 ,$3.500.000,FEMENINO
+45,Cartagena,46 años,1.800.000 COP,F
+52,Bogota,200 anios,$2.500.000,F
+53,Cali,34,no sabe,M
+14,  MEDELLÍN, 36 ,1.800.000 COP,FEMENINO
+2,Medellin,26,$ 1.800.000,F
+34,cartagena,29 años,$ 8.000.000, F
+11,BARRANQUILLA,52,$ 1.800.000,masculino
+48,Bogota,22,1300000,femenino
+55,Medellin,,,F
+22,cali,22,2800000,MASCULINO
+7,MEDELLIN,62,$ 5.000.000,masculino
+10,CALI,40,$ 3.500.000, F
+6,Medellín,46,$ 3.500.000,F
+20,Cartagena,32,$ 4.200.000,Femenino
+49,BOGOTA,20,4.200.000,femenino
+51,Bucaramanga,29,3.000.000,M
+30, barranquilla, 42 ,$ 6.500.000,M
+32, cali , 25 ,$3.500.000,Masculino
+41,MEDELLIN,60 años,$ 6.500.000, F
+8,cali,27,$2.800.000,M
+31,cartagena,18,$1.800.000,MASCULINO
+24, barranquilla,27 años,$ 3.500.000,F 
+39,BOGOTA,33,1.800.000 COP,F 
+23,  MEDELLÍN,59 anios,6.500.000, M
+17,MEDELLIN, 60 ,$3.500.000,F
